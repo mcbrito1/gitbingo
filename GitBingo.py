@@ -1,1 +1,1 @@
-printt("Git bingo!!!");ç
+print("Git bingo!!!");
